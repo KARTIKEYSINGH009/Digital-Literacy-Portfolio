@@ -36,4 +36,3 @@ Studied phishing as a cybercrime and created a prevention checklist to promote s
 
 ---
 
-## 📂 Repository Structure
